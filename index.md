@@ -1,11 +1,11 @@
 ## Services
 
 We are a consulting company having vast experience in providing specialised services to the clients in various industries like
-Utility/Energy/Electricity Industry,
+Utility/Energy/Electricity,
 Travel,
 Finance/Banking,
 Health and
-Mobile Telephone Retail Industry
+Mobile Telephone Retail
 
 ### Contact
 
