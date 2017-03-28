@@ -1,5 +1,3 @@
-## Welcome to GitHub Pages
-
 ## We are a consulting company providing services to the clients
 
 ### Markdown
